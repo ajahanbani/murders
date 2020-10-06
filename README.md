@@ -1,4 +1,2 @@
 "number of murders"
 
-test
-
