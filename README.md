@@ -1,6 +1,1 @@
 "number of murders"
-
-
-
-
-
